@@ -34,7 +34,7 @@ Este JSON incluye datos como:
 
 Aprendí a tratar una "API como una base de datos" para obtener y mostrar información específica dentro de una aplicación
 
-                                                   Apoyo de IA
+                                                    Apoyo de IA
 
 Utilicé IA para:
 - Corregir errores lógicos en el código
