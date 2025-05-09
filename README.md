@@ -28,7 +28,7 @@ Este JSON incluye datos como:
                                              Dificultades y soluciones
 
 - Integrar correctamente el JSON al proyecto y permitir la búsqueda de un elemento por nombre.  
-- Solución:** Investigué funciones adecuadas para manipular y cargar el JSON, logrando llevar la información al formulario de manera funcional.
+- Solución: Investigué funciones adecuadas para manipular y cargar el JSON, logrando llevar la información al formulario de manera funcional.
 
                                                    Aprendizaje
 
